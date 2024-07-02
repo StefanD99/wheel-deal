@@ -1,0 +1,26 @@
+.custom-card {
+    border: none;
+}
+
+.custom-image {
+    width: 250px;
+    height: 250px;
+    border: 1px solid black;
+    box-shadow: 2px 2px 5px black;
+}
+
+.custom-db-item:hover {
+    cursor: pointer;
+}
+
+.curousel-image {
+    height: 500px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.custom-spinner {
+    margin: 0 auto;
+    width: 200px;
+    height: 200px;
+}
